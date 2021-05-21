@@ -9,6 +9,7 @@ import { default as es } from './locale/es.json';
 import { default as fa } from './locale/fa.json';
 import { default as fi } from './locale/fi.json';
 import { default as fr } from './locale/fr.json';
+import { default as he } from './locale/he.json';
 import { default as hi } from './locale/hi.json';
 import { default as hu } from './locale/hu.json';
 import { default as id } from './locale/id.json';
