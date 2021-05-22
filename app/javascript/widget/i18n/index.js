@@ -45,6 +45,7 @@ export default {
   fa,
   fi,
   fr,
+  he,
   hi,
   hu,
   id,
