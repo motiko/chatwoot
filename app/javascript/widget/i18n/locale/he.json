@@ -27,7 +27,7 @@
   "BUBBLE": {
     "LABEL": "דבר איתנו"
   },
-  "POWERED_BY": "מופעל על ידי Chatwoot",
+  "POWERED_BY": "Chatwoot",
   "EMAIL_PLACEHOLDER": "בבקשה הכנס מייל",
   "CHAT_PLACEHOLDER": "הכנס הודעה",
   "TODAY": "היום",
@@ -36,20 +36,20 @@
     "FIELDS": {
       "FULL_NAME": {
         "LABEL": "שם מלא",
-        "PLACEHOLDER": "Please enter your full name",
-        "ERROR": "Full Name is required"
+        "PLACEHOLDER": "בבקשה הכנס שם מלא",
+        "ERROR": "שם מלא שדה נדרש"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Email Address",
-        "PLACEHOLDER": "Please enter your email address",
-        "ERROR": "Invalid email address"
+        "LABEL": "כתובת מייל",
+        "PLACEHOLDER": "בקשה הכנס כתובת מייל",
+        "ERROR": "כתובת מייל לא תקני"
       },
       "MESSAGE": {
-        "LABEL": "Message",
-        "PLACEHOLDER": "Please enter your message",
-        "ERROR": "Message too short"
+        "LABEL": "הודעה",
+        "PLACEHOLDER": "בקשה הכנס הודעה",
+        "ERROR": "הודעה קצרה מדי"
       }
     }
   },
-  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit"
+  "FILE_SIZE_LIMIT": "גודל קובצ גבוה מ {MAXIMUM_FILE_UPLOAD_SIZE} מגבלה מקימלית"
 }

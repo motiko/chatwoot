@@ -80,7 +80,7 @@ en:
       unmuted: "%{user_name} has unmuted the conversation"
     templates:
       greeting_message_body: "%{account_name} typically replies in a few hours."
-      ways_to_reach_you_message_body: "אפשר לנו לחזור אליך"
+      ways_to_reach_you_message_body: "אפשר לנו לחזור אליך במידה והשיחה תתנתק"
       email_input_box_message_body: "קבל התראות למייל"
     reply:
       email_subject: "New messages on this conversation"
